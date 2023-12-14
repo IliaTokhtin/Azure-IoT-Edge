@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # DPS Enrollment Group Key
-KEY=kRnFwacNNpiCQtqdgeGpar6Rs34aYoXdsEMscSxKDaFK7rF64RPceLBZtxGma6p1rMrKt5wVdRmdfq62f5Km/w==
-DPS_SCOPE_ID=0ne00B60876
+KEY=
+DPS_SCOPE_ID=
 
 # Get the hostname
 HOSTNAME=$(hostname)
