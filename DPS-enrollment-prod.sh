@@ -2,8 +2,8 @@
 
 # DPS Enrollment Group Key
 
-KEY=IvHCELcL0lMwhp7IBvSHE9HfWGL+GqkokqdMtQcMCiveuvI/QRbpREtp38dWJFZ+hP0cc5YUow5v8wNepKTHlA==
-DPS_SCOPE_ID=0ne00B73700
+KEY=
+DPS_SCOPE_ID=
 
 # Get the hostname
 
